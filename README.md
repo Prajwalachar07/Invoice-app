@@ -1,9 +1,7 @@
-[![Discord](https://img.shields.io/badge/Discord-%40linqway-000000?style=flat&logo=Discord&logoColor=#5865F2)](https://discord.gg/uhXKHbVKHZ)
-# linqway
 
 linqway is a web-based invoice generator application built with Next.js 13, TypeScript, React, and the Shadcn UI library. It provides an easy way to create and manage professional invoices.
 
-![linqway Website image](/public/assets/img/linqway-web-app.png)
+
 
 ## Table of Contents
 
@@ -17,8 +15,7 @@ linqway is a web-based invoice generator application built with Next.js 13, Type
   - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
-  - [License](#license)
-
+ 
 
 ## Technologies
 
@@ -51,12 +48,6 @@ linqway is a web-based invoice generator application built with Next.js 13, Type
 - [ ] **Custom Inputs:** Define your own inputs that are missing from the default invoice builder. (Ex: VAT number)
 - [ ] **Individual Tax for Line Items:** Add tax details for a specific line item other than the general tax
 
-## Demo
-
-> [!NOTE]
-> Please be advised that there are currently issues when using this application in the Mozilla Firefox browser. For more information, refer to [Issue #11](https://github.com/aliabb01/linqway/issues/11).
-
-Visit the [live demo](https://linqway.vercel.app) to see linqway in action.
 
 ## Getting Started
 
@@ -90,10 +81,5 @@ Follow these instructions to get linqway up and running on your local machine.
     npm run dev
     ```
 5. Open your web browser and access the application at [http://localhost:3000](http://localhost:3000)
-<!-- LICENSE -->
-## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-## Discord
-Join the Discord server [here](https://discord.gg/uhXKHbVKHZ)
